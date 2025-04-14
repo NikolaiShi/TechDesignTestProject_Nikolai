@@ -8,9 +8,10 @@ public class main_menu : MonoBehaviour
         music_manager.Instance.PlayMusic("menu_music");
     }
 
-    public void FirstSceneButton()
+    public void HiddenObjectSceneStart()
     {
-        SceneManager.LoadScene("Game");
+        music_manager.Instance.PlayMusic("hidden_object_music");
+        SceneManager.LoadScene("hidden_object");
     }
 
     public void Quit()
