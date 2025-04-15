@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_0
+      name: gem_purple_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,7 +131,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_1
+      name: gem_purple_spritesheet_1
       rect:
         serializedVersion: 2
         x: 112
@@ -152,7 +152,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_2
+      name: gem_purple_spritesheet_2
       rect:
         serializedVersion: 2
         x: 224
@@ -173,7 +173,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_3
+      name: gem_purple_spritesheet_3
       rect:
         serializedVersion: 2
         x: 336
@@ -194,7 +194,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_4
+      name: gem_purple_spritesheet_4
       rect:
         serializedVersion: 2
         x: 448
@@ -215,7 +215,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,7 +228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_5
+      name: gem_purple_spritesheet_5
       rect:
         serializedVersion: 2
         x: 560
@@ -236,7 +236,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,7 +249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_6
+      name: gem_purple_spritesheet_6
       rect:
         serializedVersion: 2
         x: 672
@@ -257,7 +257,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -270,7 +270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_7
+      name: gem_purple_spritesheet_7
       rect:
         serializedVersion: 2
         x: 784
@@ -278,7 +278,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,7 +291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_8
+      name: gem_purple_spritesheet_8
       rect:
         serializedVersion: 2
         x: 896
@@ -299,7 +299,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,7 +312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_9
+      name: gem_purple_spritesheet_9
       rect:
         serializedVersion: 2
         x: 1008
@@ -320,7 +320,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,7 +333,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 3 - PURPLE - Spritesheet_10
+      name: gem_purple_spritesheet_10
       rect:
         serializedVersion: 2
         x: 1120
@@ -341,7 +341,7 @@ TextureImporter:
         width: 112
         height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -364,17 +364,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GEM 3 - PURPLE - Spritesheet_0: -1108071949
-      GEM 3 - PURPLE - Spritesheet_1: -1014089180
-      GEM 3 - PURPLE - Spritesheet_10: -1339125534
-      GEM 3 - PURPLE - Spritesheet_2: -1988496611
-      GEM 3 - PURPLE - Spritesheet_3: -1593953224
-      GEM 3 - PURPLE - Spritesheet_4: 1131230988
-      GEM 3 - PURPLE - Spritesheet_5: -960828636
-      GEM 3 - PURPLE - Spritesheet_6: 178794062
-      GEM 3 - PURPLE - Spritesheet_7: 2118471228
-      GEM 3 - PURPLE - Spritesheet_8: -1590816721
-      GEM 3 - PURPLE - Spritesheet_9: -1577866304
+      gem_purple_spritesheet_0: -1108071949
+      gem_purple_spritesheet_1: -1014089180
+      gem_purple_spritesheet_10: -1339125534
+      gem_purple_spritesheet_2: -1988496611
+      gem_purple_spritesheet_3: -1593953224
+      gem_purple_spritesheet_4: 1131230988
+      gem_purple_spritesheet_5: -960828636
+      gem_purple_spritesheet_6: 178794062
+      gem_purple_spritesheet_7: 2118471228
+      gem_purple_spritesheet_8: -1590816721
+      gem_purple_spritesheet_9: -1577866304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

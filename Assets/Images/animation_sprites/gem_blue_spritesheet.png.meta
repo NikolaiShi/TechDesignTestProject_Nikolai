@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_0
+      name: gem_blue_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,7 +131,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_1
+      name: gem_blue_spritesheet_1
       rect:
         serializedVersion: 2
         x: 72
@@ -152,7 +152,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_2
+      name: gem_blue_spritesheet_2
       rect:
         serializedVersion: 2
         x: 144
@@ -173,7 +173,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_3
+      name: gem_blue_spritesheet_3
       rect:
         serializedVersion: 2
         x: 216
@@ -194,7 +194,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_4
+      name: gem_blue_spritesheet_4
       rect:
         serializedVersion: 2
         x: 288
@@ -215,7 +215,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,7 +228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_5
+      name: gem_blue_spritesheet_5
       rect:
         serializedVersion: 2
         x: 360
@@ -236,7 +236,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,7 +249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_6
+      name: gem_blue_spritesheet_6
       rect:
         serializedVersion: 2
         x: 432
@@ -257,7 +257,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -270,7 +270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_7
+      name: gem_blue_spritesheet_7
       rect:
         serializedVersion: 2
         x: 504
@@ -278,7 +278,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,7 +291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_8
+      name: gem_blue_spritesheet_8
       rect:
         serializedVersion: 2
         x: 576
@@ -299,7 +299,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,7 +312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 1 - BLUE - Spritesheet_transparent_9
+      name: gem_blue_spritesheet_9
       rect:
         serializedVersion: 2
         x: 648
@@ -320,7 +320,7 @@ TextureImporter:
         width: 72
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -343,16 +343,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GEM 1 - BLUE - Spritesheet_transparent_0: -1639687366
-      GEM 1 - BLUE - Spritesheet_transparent_1: 1494536344
-      GEM 1 - BLUE - Spritesheet_transparent_2: -824330456
-      GEM 1 - BLUE - Spritesheet_transparent_3: -1120127657
-      GEM 1 - BLUE - Spritesheet_transparent_4: 1550781485
-      GEM 1 - BLUE - Spritesheet_transparent_5: -205218080
-      GEM 1 - BLUE - Spritesheet_transparent_6: -1905740112
-      GEM 1 - BLUE - Spritesheet_transparent_7: 1460516378
-      GEM 1 - BLUE - Spritesheet_transparent_8: 2087453815
-      GEM 1 - BLUE - Spritesheet_transparent_9: 1273874803
+      gem_blue_spritesheet_0: -1639687366
+      gem_blue_spritesheet_1: 1494536344
+      gem_blue_spritesheet_2: -824330456
+      gem_blue_spritesheet_3: -1120127657
+      gem_blue_spritesheet_4: 1550781485
+      gem_blue_spritesheet_5: -205218080
+      gem_blue_spritesheet_6: -1905740112
+      gem_blue_spritesheet_7: 1460516378
+      gem_blue_spritesheet_8: 2087453815
+      gem_blue_spritesheet_9: 1273874803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

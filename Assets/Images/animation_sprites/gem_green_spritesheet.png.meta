@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_0
+      name: gem_green_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,7 +131,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_1
+      name: gem_green_spritesheet_1
       rect:
         serializedVersion: 2
         x: 92
@@ -152,7 +152,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_2
+      name: gem_green_spritesheet_2
       rect:
         serializedVersion: 2
         x: 184
@@ -173,7 +173,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_3
+      name: gem_green_spritesheet_3
       rect:
         serializedVersion: 2
         x: 276
@@ -194,7 +194,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_4
+      name: gem_green_spritesheet_4
       rect:
         serializedVersion: 2
         x: 368
@@ -215,7 +215,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,7 +228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_5
+      name: gem_green_spritesheet_5
       rect:
         serializedVersion: 2
         x: 460
@@ -236,7 +236,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,7 +249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_6
+      name: gem_green_spritesheet_6
       rect:
         serializedVersion: 2
         x: 552
@@ -257,7 +257,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -270,7 +270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_7
+      name: gem_green_spritesheet_7
       rect:
         serializedVersion: 2
         x: 644
@@ -278,7 +278,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,7 +291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_8
+      name: gem_green_spritesheet_8
       rect:
         serializedVersion: 2
         x: 736
@@ -299,7 +299,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,7 +312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GEM 2 - LIGHT GREEN - Spritesheet_9
+      name: gem_green_spritesheet_9
       rect:
         serializedVersion: 2
         x: 828
@@ -320,7 +320,7 @@ TextureImporter:
         width: 92
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -343,16 +343,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GEM 2 - LIGHT GREEN - Spritesheet_0: 1829663926
-      GEM 2 - LIGHT GREEN - Spritesheet_1: -1042931287
-      GEM 2 - LIGHT GREEN - Spritesheet_2: 2557865
-      GEM 2 - LIGHT GREEN - Spritesheet_3: 1971655761
-      GEM 2 - LIGHT GREEN - Spritesheet_4: -2093595747
-      GEM 2 - LIGHT GREEN - Spritesheet_5: -601831453
-      GEM 2 - LIGHT GREEN - Spritesheet_6: 1341863206
-      GEM 2 - LIGHT GREEN - Spritesheet_7: 91504835
-      GEM 2 - LIGHT GREEN - Spritesheet_8: -424755051
-      GEM 2 - LIGHT GREEN - Spritesheet_9: 313006338
+      gem_green_spritesheet_0: 1829663926
+      gem_green_spritesheet_1: -1042931287
+      gem_green_spritesheet_2: 2557865
+      gem_green_spritesheet_3: 1971655761
+      gem_green_spritesheet_4: -2093595747
+      gem_green_spritesheet_5: -601831453
+      gem_green_spritesheet_6: 1341863206
+      gem_green_spritesheet_7: 91504835
+      gem_green_spritesheet_8: -424755051
+      gem_green_spritesheet_9: 313006338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
